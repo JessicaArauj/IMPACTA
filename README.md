@@ -1,1 +1,1 @@
-# IMPACTA
+# Analise exploratoria automatizada
